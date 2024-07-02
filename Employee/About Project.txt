@@ -1,0 +1,9 @@
+                                    OFFICE EMPLOYEE MANAGEMENT SYSTEM
+ProjectName = OFFICE
+AppName = EMPLOYEE
+
+
+SUPERUSER:
+UserName = Debo_office14
+email-id = dkuraty@gmail.com
+password = DeboOffice@14
